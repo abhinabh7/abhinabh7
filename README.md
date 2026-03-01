@@ -1,48 +1,42 @@
-<!-- Header -->
-### Hi there 👋, I am **YOUR NAME**
-
-**Your professional tagline** (e.g., Aspiring DevOps Engineer)
-
-Short *one‑paragraph about you*, career focus, etc.
+<h1 align="center">Hi 👋, I'm Abhinabh Duwal</h1>
+<h3 align="center">Aspiring DevOps Engineer</h3>
 
 ---
 
-<!-- Toolbox / Tech Stack -->
-### 🧰 Toolbox
-<img alt="Toolbox icons" src="URL of icons or use icon packs like skillicons.dev">
-
-<!-- You can list your stack icons like: -->
-<!-- e.g., Ansible, Docker, AWS, Terraform, Kubernetes, Linux, etc. -->
+🌱 Intermediate DevOps learner focused on **AWS, Linux, Terraform, Ansible, Docker, Kubernetes, Git/GitHub**  
+🛠️ Working on **CI/CD pipelines and monitoring solutions** with GitHub Actions, Prometheus & Grafana  
+🚀 Building real-world DevOps projects and infrastructure automation  
 
 ---
 
-<!-- Optional: Featured Content -->
-### 🎯 What I’m Working On
-- *Description of project or area of focus*
-- *Another item or link*
-
----
-
-<!-- Optional: Latest YouTube or Blog (if any) -->
-### 📺 Latest Videos
-*Embed links or images for video content*
-
-### 📝 Latest Articles
-*Embed links or list your blog posts*
-
----
-
-<!-- GitHub stats & top languages -->
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+### 🧰 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,git,linux,python,bash" />
 </p>
 
 ---
 
-<!-- Pinned / showcase repos -->
-## 📌 Pinned Repositories
-(repositories from your profile that you want to showcase)
+### 🚧 Projects in Progress
+- **Terraform AWS Infrastructure Automation** – Automating cloud infrastructure provisioning using Terraform.  
+- **CI/CD Pipeline with GitHub Actions** – Building automated deployment pipelines for applications.  
+- **Monitoring Stack with Prometheus & Grafana** – Setting up monitoring and alerts for infrastructure and applications.  
+
+*(Projects will be updated as I push them to GitHub)*
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+- 💼 LinkedIn: [Your LinkedIn](#)  
+- 📫 Email: [your-email@example.com](#)  
+- 🌐 Portfolio: [your-portfolio.com](#)
