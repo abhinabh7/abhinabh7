@@ -1,42 +1,25 @@
-<h1 align="center">Hi 👋, I'm Abhinabh Duwal</h1>
-<h3 align="center">Aspiring DevOps Engineer</h3>
+### Hi there 👋🏻, It's me Abhinabh 
+
+**Aspiring DevOps Engineer**
+
+
+I enjoy solving problems and building automated solutions, constantly learning new tools, and pushing myself every day to become a skilled DevOps Engineer.
+
+*"I'm not the best, but I'm tying my best "* 
 
 ---
-
-🌱 Intermediate DevOps learner focused on **AWS, Linux, Terraform, Ansible, Docker, Kubernetes, Git/GitHub**  
-🛠️ Working on **CI/CD pipelines and monitoring solutions** with GitHub Actions, Prometheus & Grafana  
-🚀 Building real-world DevOps projects and infrastructure automation  
-
----
-
-### 🧰 Tech Stack
+ 🧰 **Toolbox**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,git,linux,python,bash" />
+  <img alt="Python" src="https://skillicons.dev/icons?i=python" />
+  <img alt="Bash" src="https://skillicons.dev/icons?i=bash" />
+  <img alt="AWS" src="https://skillicons.dev/icons?i=aws" />
+  <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" />
+  <img alt="Ansible" src="https://skillicons.dev/icons?i=ansible" />
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" />
+  <img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />
+  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" />
+  <img alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" />
+  <img alt="Prometheus" src="https://skillicons.dev/icons?i=prometheus" />
+  <img alt="Grafana" src="https://skillicons.dev/icons?i=grafana" />
 </p>
-
----
-
-### 🚧 Projects in Progress
-- **Terraform AWS Infrastructure Automation** – Automating cloud infrastructure provisioning using Terraform.  
-- **CI/CD Pipeline with GitHub Actions** – Building automated deployment pipelines for applications.  
-- **Monitoring Stack with Prometheus & Grafana** – Setting up monitoring and alerts for infrastructure and applications.  
-
-*(Projects will be updated as I push them to GitHub)*
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🤝 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 📫 Email: [your-email@example.com](#)  
-- 🌐 Portfolio: [your-portfolio.com](#)
